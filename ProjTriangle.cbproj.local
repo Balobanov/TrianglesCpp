@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.033,C:\Users\DENNNN\Desktop\Треугольники\Triangle_main.h=C:\Users\DENNNN\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.169,=C:\Users\DENNNN\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.033,C:\Users\DENNNN\Desktop\Треугольники\Triangle_main.cpp=C:\Users\DENNNN\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,C:\Users\DENNNN\Desktop\Треугольники\ProjTriangle.cbproj=C:\Users\DENNNN\Documents\RAD Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.266,=C:\Users\DENNNN\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.467,C:\Users\DENNNN\Desktop\Треугольники\SystemOfAxes.h=C:\Users\DENNNN\Desktop\Треугольники\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.831,=C:\Users\DENNNN\Desktop\Треугольники\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.033,C:\Users\DENNNN\Desktop\Треугольники\Triangle_main.dfm=C:\Users\DENNNN\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,C:\Users\DENNNN\Desktop\Треугольники\TrianglePCH1.h=C:\Users\DENNNN\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
